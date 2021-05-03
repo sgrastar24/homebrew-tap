@@ -1,8 +1,8 @@
 class Cbeacon < Formula
   desc "Command-line program that transmits iBeacon advertisements"
   homepage "https://github.com/sgrastar24/cbeacon"
-  url "https://github.com/sgrastar24/cbeacon/archive/0.4.1.tar.gz"
-  sha256 "67900adb13300b72faba7f414a6aab8b91ed28fbd9a944cab3267ff9f2959bda"
+  url "https://github.com/sgrastar24/cbeacon/archive/refs/tags/0.4.2.tar.gz"
+  sha256 "90dd98c231cb53cde71bfa3224178a517a334291ba41e9877fa51bcfb7010787"
   depends_on :macos => :sierra
 
   def install
